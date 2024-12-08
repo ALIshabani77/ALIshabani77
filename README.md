@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ALIshabani77](https://github.com/ALIshabani77)
 
-- 💬 Ask me about **Python and Django**
-
 - 📫 How to reach me **alishabaniara123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
