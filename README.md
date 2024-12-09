@@ -16,14 +16,14 @@
 - 📫 How to reach me **alishabaniara123@gmail.com**
 
 
-<h2 id="---connect-with-me"><picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shabaniara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shabaniara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali shabani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali shabani" height="30" width="40" /></a>
 <a href="https://fb.com/ali shabaniara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali shabaniara" height="30" width="40" /></a>
 <a href="https://instagram.com/ali007_ara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali007_ara" height="30" width="40" /></a>
 </p>
-
+<br>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <p align="center"> 
 
