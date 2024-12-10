@@ -1,3 +1,7 @@
+ <p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ali</h1><br>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
 <h2 id="-about-me"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me</h2>
@@ -8,6 +12,8 @@
 
 
 - 🔭 I’m currently working on **complete onlin shop site**
+ 
+- 💡  I like to explore new technologies and develop software solutions 
 
 - 🌱 I’m currently learning **Django FrameWork**
 
