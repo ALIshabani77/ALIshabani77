@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ali</h1><br>
+<h1 align="center">Hi 👋, I'm Ali and  Nice to see you </h1><br>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
 <h2 id="-about-me"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me</h2>
 <img align="right" alt="Ali" width="400" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif">
@@ -55,7 +55,10 @@
 
    ![](https://github-readme-stats.vercel.app/api?username=ALIshabani77&theme=radical&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=ALIshabani77&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALIshabani77&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+<h2 id="-a-snake-eating-my-contributions-graph">🐍 A Snake Eating my Contributions Graph</h2>
+<p align="center">
+	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game">
+</p>
 
 
 
