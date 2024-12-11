@@ -53,7 +53,8 @@
 
 
 
-   ![](https://github-readme-stats.vercel.app/api?username=ALIshabani77&theme=radical&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=ALIshabani77&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALIshabani77&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+   ![](https://github-readme-stats.vercel.app/api?username=ALIshabani77&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=ALIshabani77&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALIshabani77&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <h2 id="-a-snake-eating-my-contributions-graph">🐍 A Snake Eating my Contributions Graph</h2>
 <p align="center">
